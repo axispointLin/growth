@@ -1,0 +1,11 @@
+{
+    "exclude": [
+        "node_modules",
+        "./src/**/*_it.ts",
+        "./src/**/*_test.ts"
+    ],
+    "compilerOptions": {
+        "declaration": false,
+    },
+    "extends": "./tsconfig.json"
+}
