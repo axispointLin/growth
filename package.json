@@ -7,11 +7,15 @@
     "class-validator": "^0.14.0",
     "lite-ts-bent": "^4.10.0",
     "lite-ts-crypto": "^3.1.0",
+    "lite-ts-db": "^3.17.5",
     "lite-ts-enum": "^4.22.2",
     "lite-ts-express": "^4.23.5",
     "lite-ts-fs": "^3.11.6",
     "lite-ts-log4js": "^3.0.0",
+    "lite-ts-mongo": "^4.27.3",
+    "lite-ts-redis": "^4.13.1",
     "lite-ts-reward": "^4.3.1",
+    "lite-ts-thread": "^3.2.0",
     "lite-ts-tracer": "^3.0.0",
     "lite-ts-value": "^4.40.4",
     "lite-ts-yaml": "^4.6.1",
@@ -38,5 +42,5 @@
     "test": "mocha -t 30s -r ./node_modules/ts-node/register/index.js --exit",
     "version": "ts-node src/version"
   },
-  "version": "1.1.0"
+  "version": "1.2.0"
 }

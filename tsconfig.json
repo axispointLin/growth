@@ -6,7 +6,7 @@
         "esModuleInterop": true,
         "experimentalDecorators": true,
         "lib": [
-            "ES7",
+            "ES6",
             "ESNext"
         ],
         "module": "commonjs",
